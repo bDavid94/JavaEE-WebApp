@@ -1,4 +1,5 @@
-Java EE Web Application
+<h2>Java EE Web Application</h2>
+<br>
 Techonoliges used:
   - EJBs
   - Maven
