@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tomee>
+    <Resource id="myDS" type="DataSource">
+        JdbcDriver = org.h2.Driver
+        JdbcUrl = jdbc:h2:mem:test
+        UserName = sa
+        Password = 
+        jtaManaged = true
+    </Resource>
+</tomee>

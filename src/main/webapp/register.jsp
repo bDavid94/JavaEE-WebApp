@@ -4,11 +4,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Register</title>
 </head>
 <body>
-	<form action="EntryPointController" method="POST">
-		<input type="submit" value="PopulateDB"/>
+<h2>Registration Form</h2>
+	<form>
+		Email:<input type="text"/><br>
+		First Name:<input type="text"/><br>
+		Last Name:<input type="text"/><br>
+		Password:<input type="password"/><br>
+		<br>
+		<input type="submit" value="Register"/>
 	</form>
 </body>
 </html>

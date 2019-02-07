@@ -7,8 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="EntryPointController" method="POST">
-		<input type="submit" value="PopulateDB"/>
+	<h3>Cool Hair App</h3>
+	<form action="LogoutController" method="POST">
+		<input type="submit" value="Logout" /><br><br>
 	</form>
+	
 </body>
 </html>

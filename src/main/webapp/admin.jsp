@@ -7,8 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="EntryPointController" method="POST">
-		<input type="submit" value="PopulateDB"/>
-	</form>
+<jsp:include page="header.jsp" />
+	<h2>Admin View</h2><br><br>
+	<h4><a href="/cool-hair/ProductController">Products</a></h4>
+	<h4><a href="/cool-hair/EmployeeController">Employees</a></h4>
+	<h4><a href="/cool-hair/CustomerController"">Customers</a></h4>
+	<h4><a href="/cool-hair/AppointmentController">Appointments</a></h4>
+
 </body>
 </html>

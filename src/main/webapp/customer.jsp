@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="EntryPointController" method="POST">
-		<input type="submit" value="PopulateDB"/>
-	</form>
+<h2>Customer section</h2>
 </body>
 </html>
