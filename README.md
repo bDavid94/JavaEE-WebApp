@@ -4,6 +4,7 @@ Techonoliges used:
 <ul>
   <li>EJBs</li>
   <li>Maven</li>
+  <li>TomEE</li>
   <li>H2 database</li>
   <li>Hibernate</li>
   <li>JSPs</li>
