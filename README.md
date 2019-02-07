@@ -1,1 +1,10 @@
-For code explanation and additional configurations read the tutorial at https://javatutorial.net/java-servlet-example
+Java EE Web Application
+Techonoliges used:
+  - EJBs
+  - Maven
+  - H2 database
+  - Hibernate
+  - JSPs
+  - Servlets
+  - HTML
+  - CSS
