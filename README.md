@@ -1,2 +1,1 @@
-# JavaEE-WebApp
-Java EE web application using EJBs, Hibernate, Maven, JSPs, Servlets, JSTL tags, HTML, CSS
+For code explanation and additional configurations read the tutorial at https://javatutorial.net/java-servlet-example
